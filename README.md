@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Pandit</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack developer from India</h3>
-<img src="https://raw.githubusercontent.com/Gautam5514/Gautam5514/master/resources/banner.png" alt="Not Hello world
-  Welcome To Gautam World">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Gautam5514/count.svg" />
