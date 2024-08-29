@@ -64,7 +64,6 @@ I'm not just about code! I’m a **black belt in karate** and a former member of
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio.com)
 
 ---
 
