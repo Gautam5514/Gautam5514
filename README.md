@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/pgautam5514" target="blank"><img src="https://img.shields.io/twitter/follow/pgautam5514?logo=twitter&style=for-the-badge" alt="pgautam5514" /></a> </p>
 
-- 🔭 I’m currently studing on **Cambridge Institute of Technology, Ranchi**
+- 🔭 Currently Studying: Pursuing a B.Tech in Computer Science & Engineering at Cambridge Institute of Technology, Ranchi
 
-- 🌱 I’m currently learning **Computer Science & Engineering**
+- 🌱 Current Focus: Deepening my expertise in Computer Science & Engineering with a passion for cutting-edge technologies.
 
-- 👯 I’m looking to Working on [Backend Project](https://github.com/Gautam5514/gautam_aur_backend)
+- 👯 Current Project: Actively working on a Backend Project. Open to collaboration and feedback.
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 Looking For: Support and collaboration opportunities in Problem Solving & Full Stack Development to enhance my skills and contribute to impactful projects.
 
-- 💬 Ask me about **React vue & Angular**
+- 💬 Ask Me About: Data Structures & Algorithms, Language in C++, React —I’m always excited to discuss and share knowledge on these Tech.
 
-- 📫 How to reach me **softgpt9299@gmail.com**
+- 📫 Reach Me At: Feel free to connect via email at softgpt9299@gmail.com.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/18wTPqPM-Y_mz7ojrw86f8F1Ke9Ule9RO/view?usp=sharing" target="_blank">
