@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gautam Pandit</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack developer from India</h3>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gautam5514/count.svg" />
+<p align="center">
+  <strong>Visitor Count</strong><br>
+  <img src="https://profile-counter.glitch.me/Gautam5514/count.svg" alt="Visitor Count" />
 </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam5514" alt="gautam5514" /></a> </p>
 
