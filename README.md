@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/18wTPqPM-Y_mz7ojrw86f8F1Ke9Ule9RO/view?usp=sharing" target="_blank">
-    <img src="[https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive](https://drive.google.com/file/d/1mzlEXuXBe6gmhgmFoX8g_AclQh_Pae01/view?usp=drive_link)" alt="Resume Link" />
+    <img src="[[https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive](https://drive.google.com/file/d/1mzlEXuXBe6gmhgmFoX8g_AclQh_Pae01/view?usp=drive_link](https://drive.google.com/file/d/1eS64mkM2-Mw7drRnwPZ8uOLHuiQb5iwe/view?usp=sharing))" alt="Resume Link" />
   </a>
 </p>
 
